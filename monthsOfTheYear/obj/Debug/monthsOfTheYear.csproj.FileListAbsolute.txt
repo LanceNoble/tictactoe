@@ -1,0 +1,8 @@
+D:\Users\ltnli\source\tryitout\printAPyramid\monthsOfTheYear\bin\Debug\monthsOfTheYear.exe.config
+D:\Users\ltnli\source\tryitout\printAPyramid\monthsOfTheYear\bin\Debug\monthsOfTheYear.exe
+D:\Users\ltnli\source\tryitout\printAPyramid\monthsOfTheYear\bin\Debug\monthsOfTheYear.pdb
+D:\Users\ltnli\source\tryitout\printAPyramid\monthsOfTheYear\obj\Debug\monthsOfTheYear.csproj.AssemblyReference.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\monthsOfTheYear\obj\Debug\monthsOfTheYear.csproj.SuggestedBindingRedirects.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\monthsOfTheYear\obj\Debug\monthsOfTheYear.csproj.CoreCompileInputs.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\monthsOfTheYear\obj\Debug\monthsOfTheYear.exe
+D:\Users\ltnli\source\tryitout\printAPyramid\monthsOfTheYear\obj\Debug\monthsOfTheYear.pdb

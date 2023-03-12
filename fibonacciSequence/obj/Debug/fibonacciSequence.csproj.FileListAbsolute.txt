@@ -1,0 +1,8 @@
+D:\Users\ltnli\source\tryitout\printAPyramid\fibonacciSequence\bin\Debug\fibonacciSequence.exe.config
+D:\Users\ltnli\source\tryitout\printAPyramid\fibonacciSequence\bin\Debug\fibonacciSequence.exe
+D:\Users\ltnli\source\tryitout\printAPyramid\fibonacciSequence\bin\Debug\fibonacciSequence.pdb
+D:\Users\ltnli\source\tryitout\printAPyramid\fibonacciSequence\obj\Debug\fibonacciSequence.csproj.AssemblyReference.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\fibonacciSequence\obj\Debug\fibonacciSequence.csproj.SuggestedBindingRedirects.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\fibonacciSequence\obj\Debug\fibonacciSequence.csproj.CoreCompileInputs.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\fibonacciSequence\obj\Debug\fibonacciSequence.exe
+D:\Users\ltnli\source\tryitout\printAPyramid\fibonacciSequence\obj\Debug\fibonacciSequence.pdb

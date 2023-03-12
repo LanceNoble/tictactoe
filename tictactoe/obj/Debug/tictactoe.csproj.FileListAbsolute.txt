@@ -1,0 +1,8 @@
+D:\Users\ltnli\source\tryitout\printAPyramid\tictactoe\bin\Debug\tictactoe.exe.config
+D:\Users\ltnli\source\tryitout\printAPyramid\tictactoe\bin\Debug\tictactoe.exe
+D:\Users\ltnli\source\tryitout\printAPyramid\tictactoe\bin\Debug\tictactoe.pdb
+D:\Users\ltnli\source\tryitout\printAPyramid\tictactoe\obj\Debug\tictactoe.csproj.AssemblyReference.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\tictactoe\obj\Debug\tictactoe.csproj.SuggestedBindingRedirects.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\tictactoe\obj\Debug\tictactoe.exe
+D:\Users\ltnli\source\tryitout\printAPyramid\tictactoe\obj\Debug\tictactoe.pdb

@@ -1,0 +1,8 @@
+D:\Users\ltnli\source\tryitout\printAPyramid\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+D:\Users\ltnli\source\tryitout\printAPyramid\FizzBuzz\bin\Debug\FizzBuzz.exe
+D:\Users\ltnli\source\tryitout\printAPyramid\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\Users\ltnli\source\tryitout\printAPyramid\FizzBuzz\obj\Debug\FizzBuzz.csproj.AssemblyReference.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\FizzBuzz\obj\Debug\FizzBuzz.csproj.SuggestedBindingRedirects.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\FizzBuzz\obj\Debug\FizzBuzz.exe
+D:\Users\ltnli\source\tryitout\printAPyramid\FizzBuzz\obj\Debug\FizzBuzz.pdb

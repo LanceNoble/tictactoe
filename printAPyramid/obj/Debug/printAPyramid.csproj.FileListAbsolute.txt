@@ -1,0 +1,8 @@
+D:\Users\ltnli\source\tryitout\printAPyramid\printAPyramid\bin\Debug\printAPyramid.exe.config
+D:\Users\ltnli\source\tryitout\printAPyramid\printAPyramid\bin\Debug\printAPyramid.exe
+D:\Users\ltnli\source\tryitout\printAPyramid\printAPyramid\bin\Debug\printAPyramid.pdb
+D:\Users\ltnli\source\tryitout\printAPyramid\printAPyramid\obj\Debug\printAPyramid.csproj.AssemblyReference.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\printAPyramid\obj\Debug\printAPyramid.csproj.SuggestedBindingRedirects.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\printAPyramid\obj\Debug\printAPyramid.csproj.CoreCompileInputs.cache
+D:\Users\ltnli\source\tryitout\printAPyramid\printAPyramid\obj\Debug\printAPyramid.exe
+D:\Users\ltnli\source\tryitout\printAPyramid\printAPyramid\obj\Debug\printAPyramid.pdb
