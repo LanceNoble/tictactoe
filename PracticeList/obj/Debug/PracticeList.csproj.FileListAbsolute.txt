@@ -1,0 +1,8 @@
+D:\Users\ltnli\source\repos\tictactoe\PracticeList\bin\Debug\PracticeList.exe.config
+D:\Users\ltnli\source\repos\tictactoe\PracticeList\bin\Debug\PracticeList.exe
+D:\Users\ltnli\source\repos\tictactoe\PracticeList\bin\Debug\PracticeList.pdb
+D:\Users\ltnli\source\repos\tictactoe\PracticeList\obj\Debug\PracticeList.csproj.AssemblyReference.cache
+D:\Users\ltnli\source\repos\tictactoe\PracticeList\obj\Debug\PracticeList.csproj.SuggestedBindingRedirects.cache
+D:\Users\ltnli\source\repos\tictactoe\PracticeList\obj\Debug\PracticeList.csproj.CoreCompileInputs.cache
+D:\Users\ltnli\source\repos\tictactoe\PracticeList\obj\Debug\PracticeList.exe
+D:\Users\ltnli\source\repos\tictactoe\PracticeList\obj\Debug\PracticeList.pdb
